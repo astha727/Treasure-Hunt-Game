@@ -23,7 +23,7 @@
 
 ## 🛠️ Installation  
 ### **Option 1: Run Online (Replit)**
-1. Click this link: **[Play Now](https://replit.com/)** *(Replace with actual link when hosted)*  
+1. Click this link: **[Play Now](https://replit.com/)**
 2. Press **Run** and start playing!
 
 ### **Option 2: Run Locally**
