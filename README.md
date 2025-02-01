@@ -23,7 +23,7 @@
 
 ## 🛠️ Installation  
 ### **Option 1: Run Online (Replit)**
-1. Click this link: **[Play Now](https://replit.com/)**
+1. Click this link: **[Play Now](https://www.pythonanywhere.com/shared_console/0e64fdce-33fc-4189-b0da-abbf9dd14f19)**
 2. Press **Run** and start playing!
 
 ### **Option 2: Run Locally**
